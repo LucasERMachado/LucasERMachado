@@ -1,7 +1,8 @@
 ## Olá! Sou Lucas, muito prazer  ✌️😉
 
 - Estou estudando para ingressar na área de desenvolvimento web 👨‍💻
-- Estou começando pelo front-end, estudando as linguagens HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height ="20px"> e CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height ="25px">
+- Estou começando pelo front-end, estudando as linguagens HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height ="20px">, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height ="25px"> e JavaScript <i class="devicon-javascript-plain colored"></i>
+
 
  <div>
    <a href="https://github.com/LucasERMachado">
