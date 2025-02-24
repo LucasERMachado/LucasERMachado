@@ -4,7 +4,8 @@
 ## Olá! Sou Lucas, muito prazer  ✌️😉
 
 - Estou estudando Linguagens de desenvolvimento Web👨‍💻
-- Estou começando pelo front-end, estudando as linguagens HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height ="20px" margin-top:10px>, CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height ="25px" margin-top:10px> e JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height ="20px" margin-top:10px />
+- Estou começando pelo front-end, estudando as linguagens HTML, CSS e JavaScript 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
           
 
 
