@@ -5,15 +5,15 @@
 
 - Estou estudando Linguagens de desenvolvimento Web👨‍💻
 - Estou começando pelo front-end, estudando as linguagens HTML, CSS e JavaScript 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
           
-
 
  <div>
    <a href="https://github.com/LucasERMachado">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasERMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasERMachado&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
     
   ## 
   
