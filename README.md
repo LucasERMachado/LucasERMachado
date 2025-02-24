@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&background=FF25B900&width=435&lines=Ol%C3%A1!+Seja+muito+bem-vindo(a)!+~(%CB%98%E2%96%BE%CB%98~);Me+chamo+Lucas%2C+muito+prazer!;Sou+de+Campinas+-+SP;Se+desejar%2C+entre+em+contato+comigo+)](https://git.io/typing-svg)
+
 ## Olá! Sou Lucas, muito prazer  ✌️😉
 
 - Estou estudando Linguagens de desenvolvimento Web👨‍💻
