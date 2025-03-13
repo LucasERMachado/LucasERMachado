@@ -1,9 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&background=FF25B900&width=435&lines=Ol%C3%A1!+Seja+muito+bem-vindo(a)!+~(%CB%98%E2%96%BE%CB%98~);Me+chamo+Lucas%2C+muito+prazer!;Sou+de+Campinas+-+SP;Se+desejar%2C+entre+em+contato+comigo+)](https://git.io/typing-svg)
 
-- Estou estudando Linguagens de desenvolvimento Web e buscando uma oportunidade para ingressar de maneira profissional na área 👨‍💻
-          
-
  <div>
    <a href="https://github.com/LucasERMachado">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasERMachado&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
